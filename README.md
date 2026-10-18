@@ -4,7 +4,7 @@
 
 Windows 11'de kısayol, klasör ve dosya türü ikonlarını değiştirmek için hazırladığım, **3512 renkli ve 3B görünümlü ikon**. İkonlar **53 kategoriye ayrılmış DLL** içinde: bayraklar, sosyal medya logoları, araçlar, bankacılık, Linux logoları, günlük hayat nesneleri ve daha fazlası. Her DLL küçük olduğu için simge seçme penceresi hızlı açılıyor.
 
-![Önizleme](docs/onizleme.jpg)
+![Önizleme](docs/flat3d-ultimate-onizleme.jpg)
 
 > English: 3512 colorful 3D-style icons split into 53 category-based resource-only DLLs (x64) for customizing shortcut, folder and file-type icons on Windows 11. See [INDEX.csv](INDEX.csv) for the DLL file and resource ID of every icon.
 
